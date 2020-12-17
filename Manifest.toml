@@ -125,7 +125,7 @@ uuid = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 deps = ["Dates", "HTTP", "JSON", "Pkg", "Printf", "Random", "RecipesBase", "Statistics", "Test"]
 git-tree-sha1 = "31560aae24d7fa64dd75aaa4a74a81ac7cd28576"
 uuid = "a110ec8f-48c8-5d59-8f7e-f91bc4cc0c3d"
-version = "0.7.0"
+version = "0.8.0"
 
 [[Test]]
 deps = ["Distributed", "InteractiveUtils", "Logging", "Random"]
